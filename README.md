@@ -17,6 +17,9 @@
 1. [IntelliJ-IDEA修改cobaltstrike](https://pingmaoer.github.io/2020/06/08/IntelliJ-IDEA修改cobaltstrike/)
 2. [CobaltStrike二次开发环境准备](https://pingmaoer.github.io/2020/06/24/CobaltStrike二次开发环境准备/)
 3. [Cobal Strike 自定义OneLiner](https://evi1cg.me/archives/Custom_Oneliner.html)
+4. [通过反射DLL注入来构建后渗透模块（第一课）](https://payloads.online/archivers/2020-03-02/1)
+5. [Cobalt Strike Aggressor Script （第一课）](https://payloads.online/archivers/2020-03-02/4)
+6. [Cobalt Strike Aggressor Script （第二课）](https://payloads.online/archivers/2020-03-02/5)
 
 使用技巧参考：
 1. [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
