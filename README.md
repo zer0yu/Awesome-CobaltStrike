@@ -59,7 +59,6 @@ CobaltStrike分析参考：
 
 |  Type   |   Name  |  Description   |  Popularity   |   Language  |
 |:---:|:---:|:---:|:---:|:---:|
-|  AntiCS   |   [cobaltstrike_brute](https://github.com/isafe/cobaltstrike_brute)  |   Cobalt Strike Team Server Password Brute Forcer  |  ![](https://img.shields.io/github/stars/isafe/cobaltstrike_brute)   | ![](https://img.shields.io/github/languages/top/isafe/cobaltstrike_brute)     |
 |  BypassAV   |   [BypassAV](https://github.com/hack2fun/BypassAV)  |   用于快速生成免杀的可执行文件  |  ![](https://img.shields.io/github/stars/hack2fun/BypassAV)   | ![](https://img.shields.io/github/languages/top/hack2fun/BypassAV)     |
 |  BypassAV   |   [scrun](https://github.com/k8gege/scrun)  |   BypassAV ShellCode Loader (Cobaltstrike/Metasploit) [Useage](https://www.cnblogs.com/k8gege/p/11223393.html)  |  ![](https://img.shields.io/github/stars/k8gege/scrun)   | ![](https://img.shields.io/github/languages/top/k8gege/scrun)     |
 |  BypassAV   |   [beacon-c2-go](https://github.com/wahyuhadi/beacon-c2-go)  |   beacon-c2-go (Cobaltstrike/Metasploit)  |  ![](https://img.shields.io/github/stars/wahyuhadi/beacon-c2-go)   | ![](https://img.shields.io/github/languages/top/wahyuhadi/beacon-c2-go)  |
@@ -136,6 +135,7 @@ CobaltStrike分析参考：
 ### 0x05 Related Tools
 |  Type   |   Name  |  Description   |  Popularity   |   Language  |
 |:---:|:---:|:---:|:---:|:---:|
+|  AntiCS   |   [cobaltstrike_brute](https://github.com/isafe/cobaltstrike_brute)  |   Cobalt Strike Team Server Password Brute Forcer  |  ![](https://img.shields.io/github/stars/isafe/cobaltstrike_brute)   | ![](https://img.shields.io/github/languages/top/isafe/cobaltstrike_brute)     |
 |  Synthesis   |   [redi](https://github.com/taherio/redi)  | Automated script for setting up CobaltStrike redirectors (nginx reverse proxy, letsencrypt) |  ![](https://img.shields.io/github/stars/taherio/redi)   | ![](https://img.shields.io/github/languages/top/taherio/redi)     |
 
 
