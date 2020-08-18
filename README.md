@@ -140,11 +140,8 @@ CobaltStrike分析参考：
 |  AntiCS   |   [cobaltstrike_brute](https://github.com/isafe/cobaltstrike_brute)  |   Cobalt Strike Team Server Password Brute Forcer  |  ![](https://img.shields.io/github/stars/isafe/cobaltstrike_brute)   | ![](https://img.shields.io/github/languages/top/isafe/cobaltstrike_brute)     |
 |  Synthesis   |   [redi](https://github.com/taherio/redi)  | Automated script for setting up CobaltStrike redirectors (nginx reverse proxy, letsencrypt) |  ![](https://img.shields.io/github/stars/taherio/redi)   | ![](https://img.shields.io/github/languages/top/taherio/redi)     |
 
+### 0x06 Source Code
 
-
-
-
-
-
-
-
+|  Type  |                             Name                             |                      Description                      |                          Popularity                          |                           Language                           |
+| :----: | :----------------------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Source | [cobalt-strike-source](https://github.com/Skactor/cobalt-strike-source) | Cobalt Strike 3.12 Source Code (Decompiled and Fixed) | ![](https://img.shields.io/github/stars/Skactor/cobalt-strike-source) | ![](https://img.shields.io/github/languages/top/Skactor/cobalt-strike-source) |
