@@ -1,11 +1,10 @@
 # Awesome CobaltStrike ![Awesome CobaltStrike](https://img.shields.io/badge/awesome-cobaltstrike-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
 
 ### 0x00 前言
-1. 一部分是近期做RedTeam项目的时候看到的一些关于CobaltStrike不错的文章
-2. 目前网上的Aggressor Script种类繁多，大多数资源的聚合都是只给出对应的链接，而不说明是干什么的，以至于在查看时不知道如何选择，要一个一个打开看
-3. 关于新特性BOF资源的整合
-4. 解决要用的时候找不到合适aggressor script或者BOF的问题
-5. 如果有本repo没有涉及的优质内容，欢迎大家提交pr
+1. 第一部分是关于CobaltStrike优质文章的集合
+2. 关于新特性BOF资源的整合
+3. 解决要用的时候找不到合适aggressor script或者BOF的问题
+4. 如果有本repo没有涉及的优质内容，欢迎大家提交pr
 
 ### 0x01 相关文章合集
 基础知识参考：
