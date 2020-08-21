@@ -52,6 +52,7 @@ CobaltStrike分析参考：
 |  ALL   |   [BOF_Collection](https://github.com/rvrsh3ll/BOF_Collection)  |   Various Cobalt Strike BOFs  |  ![](https://img.shields.io/github/stars/rvrsh3ll/BOF_Collection)   | ![](https://img.shields.io/github/languages/top/rvrsh3ll/BOF_Collection)     |
 |  ALL   |   [Situational Awareness BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF)  |   Its larger goal is providing a code example and workflow for others to begin making more BOF files. [Blog](https://www.trustedsec.com/blog/a-developers-introduction-to-beacon-object-files/)  |  ![](https://img.shields.io/github/stars/trustedsec/CS-Situational-Awareness-BOF)   | ![](https://img.shields.io/github/languages/top/trustedsec/CS-Situational-Awareness-BOF)     |
 |  ALL   |   [QueueUserAPC_PPID](https://github.com/m57/cobaltstrike_bofs)  |   BOF spawns a process of your choice under a specified parent, and injects a provided shellcode file via QueueUserAPC().  |  ![](https://img.shields.io/github/stars/m57/cobaltstrike_bofs)   | ![](https://img.shields.io/github/languages/top/m57/cobaltstrike_bofs)     |
+|  ALL   |   [bof_helper](https://github.com/dtmsecurity/bof_helper)  |   Beacon Object File (BOF) Creation Helper  |  ![](https://img.shields.io/github/stars/dtmsecurity/bof_helper)   | ![](https://img.shields.io/github/languages/top/dtmsecurity/bof_helper)     |
 
 
 ### 0x04 Aggressor Script
