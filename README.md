@@ -155,7 +155,9 @@
 |:---:|:---:|:---:|:---:|:---:|
 |  AntiCS   |   [cobaltstrike_brute](https://github.com/isafe/cobaltstrike_brute)  |   Cobalt Strike Team Server Password Brute Forcer  |  ![](https://img.shields.io/github/stars/isafe/cobaltstrike_brute)   | ![](https://img.shields.io/github/languages/top/isafe/cobaltstrike_brute)     |
 |  Auxiliary   |   [redshell](https://github.com/Verizon/redshell)  | An interactive command prompt that executes commands through proxychains and automatically logs them on a Cobalt Strike team server. |  ![](https://img.shields.io/github/stars/Verizon/redshell)   | ![](https://img.shields.io/github/languages/top/Verizon/redshell)     |
+|  Auxiliary   |   [Ansible-Cobalt-Strike](https://github.com/jfmaes/Ansible-Cobalt-Strike)  | An Ansible role to install cobalt-strike on debian based architectures, let's be honest it's for kali. |  ![](https://img.shields.io/github/stars/jfmaes/Ansible-Cobalt-Strike)   | ![](https://img.shields.io/github/languages/top/jfmaes/Ansible-Cobalt-Strike)     |
 |  Synthesis   |   [redi](https://github.com/taherio/redi)  | Automated script for setting up CobaltStrike redirectors (nginx reverse proxy, letsencrypt) |  ![](https://img.shields.io/github/stars/taherio/redi)   | ![](https://img.shields.io/github/languages/top/taherio/redi)     |
+|  Synthesis   |   [Red-EC2](https://github.com/jfmaes/Red-EC2)  | Deploy RedTeam Specific EC2 via ansible.) |  ![](https://img.shields.io/github/stars/jfmaes/Red-EC2)   | ![](https://img.shields.io/github/languages/top/jfmaes/Red-EC2)     |
 
 ### 0x06 Source Code
 
