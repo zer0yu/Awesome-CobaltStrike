@@ -149,6 +149,7 @@
 |  Synthesis   |   [AggressorCollection](https://github.com/invokethreatguy/AggressorCollection)  | Collection of awesome Cobalt Strike Aggressor Scripts. All credit due to the authors |  ![](https://img.shields.io/github/stars/invokethreatguy/AggressorCollection)   | ![](https://img.shields.io/github/languages/top/invokethreatguy/AggressorCollection)     |
 |  Synthesis   |   [Cobaltstrike-Aggressor-Scripts-Collection](https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection)  | The collection of tested cobaltstrike aggressor scripts. |  ![](https://img.shields.io/github/stars/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection)   | ![](https://img.shields.io/github/languages/top/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection)     |
 |  Synthesis   |   [aggressorScripts](https://github.com/Matrix20085/aggressorScripts)  | CobaltStrike AggressorScripts for the lazy |  ![](https://img.shields.io/github/stars/Matrix20085/aggressorScripts)   | ![](https://img.shields.io/github/languages/top/Matrix20085/aggressorScripts)     |
+|  Synthesis   |   [cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit)  | 集成了SharpHound,SharpRDP,SharpWMI等在内的各种内网工具，使用AggressorScripts构建workflow |  ![](https://img.shields.io/github/stars/josephkingstone/cobalt_strike_extension_kit)   | ![](https://img.shields.io/github/languages/top/josephkingstone/cobalt_strike_extension_kit)     |
 
 ### 0x05 Related Tools
 |  Type   |   Name  |  Description   |  Popularity   |   Language  |
