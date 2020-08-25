@@ -7,12 +7,16 @@
 4. 如果有本repo没有涉及的优质内容，欢迎大家提交pr
 
 ### 0x01 相关文章合集
-基础知识参考：
+
+#### 1. 基础知识参考
 1. [Cobalt_Strike_wiki](https://github.com/aleenzz/Cobalt_Strike_wiki)
 2. [CobaltStrike4.0笔记](https://github.com/Snowming04/CobaltStrike4.0_related)
 3. [CobaltStrike相关网络文章集合](https://4hou.win/wordpress/?cat=306)
+4. [Cobalt Strike 外部 C2【一、原理篇】](http://blog.leanote.com/post/snowming/50448511de58)
+5. [Cobalt Strike 桌面控制问题的解决（以及屏幕截图等后渗透工具）](http://blog.leanote.com/post/snowming/32fabf2deae1)
+6. [Cobalt Strike & MetaSploit 联动](http://blog.leanote.com/post/snowming/43cef4b64cbd)
 
-破解以及定制参考：
+#### 2. 破解以及定制参考
 1. [IntelliJ-IDEA修改cobaltstrike](https://pingmaoer.github.io/2020/06/08/IntelliJ-IDEA修改cobaltstrike/)
 2. [CobaltStrike二次开发环境准备](https://pingmaoer.github.io/2020/06/24/CobaltStrike二次开发环境准备/)
 3. [Cobal Strike 自定义OneLiner](https://evi1cg.me/archives/Custom_Oneliner.html)
@@ -20,16 +24,27 @@
 5. [Cobalt Strike Aggressor Script （第一课）](https://payloads.online/archivers/2020-03-02/4)
 6. [Cobalt Strike Aggressor Script （第二课）](https://payloads.online/archivers/2020-03-02/5)
 
-使用技巧参考：
+#### 3. 使用技巧参考
 1. [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
 2. [run CS in win -- teamserver.bat](https://evi1cg.me/archives/teamserver.html)
 3. [Remote NTLM relaying through CS -- related to CVE_2018_8581](https://evi1cg.me/archives/Remote_NTLM_relaying_through_CS.html)
-4. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
+4. [Cobalt Strike Convet VPN](http://blog.leanote.com/post/snowming/82b418239c13)
 5. [渗透神器CS3.14搭建使用及流量分析](https://mp.weixin.qq.com/s/DG87HFrwHf25_M2Dnfdx3g)
 6. [CobaltStrike生成免杀shellcode](https://mp.weixin.qq.com/s/G1hmsDVTO2208Ymlia_ggQ)
 7. [CS-notes](https://github.com/kluo84/CS-notes)--一系列CS的使用技巧笔记
+8. [使用 Cobalt Strike 对 Linux 主机进行后渗透](http://blog.leanote.com/post/snowming/c34f9defe00c)
+9. [Cobalt Strike Listener with Proxy](http://blog.leanote.com/post/snowming/2ec80f7823e0)
+10. [Cobalt Strike Convet VPN](http://blog.leanote.com/post/snowming/82b418239c13)
+11. [CS 4.0 SMB Beacon](http://blog.leanote.com/post/snowming/8b7ce0f84c03)
+12. [Cobalt Strike 浏览器跳板攻击](http://blog.leanote.com/post/snowming/4e07af1cab60)
+13. [Cobalt Strike 中 Bypass UAC](http://blog.leanote.com/post/snowming/b6f671477095)
 
-CobaltStrike分析参考：
+#### 4. CobaltStrike隐匿参考
+1. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
+2. [CS 合法证书 + Powershell 上线](http://blog.leanote.com/post/snowming/6a724671de78)
+3. [Cobalt Strike 团队服务器隐匿](http://blog.leanote.com/post/snowming/d5d2b4ba20d0)
+
+#### 5. CobaltStrike分析参考
 1. Volatility Plugin for Detecting Cobalt Strike Beacon. [blog](https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html)|[Toolset](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
 2. [逆向分析Cobalt Strike安装后门](https://mp.weixin.qq.com/s/VHpcHzLc829hmQjrx1139A)
 3. [分析cobaltstrike c2 协议](https://github.com/verctor/Cobalt_Homework)
