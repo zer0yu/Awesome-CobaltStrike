@@ -68,6 +68,7 @@
 |  ALL   |   [Situational Awareness BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF)  |   Its larger goal is providing a code example and workflow for others to begin making more BOF files. [Blog](https://www.trustedsec.com/blog/a-developers-introduction-to-beacon-object-files/)  |  ![](https://img.shields.io/github/stars/trustedsec/CS-Situational-Awareness-BOF)   | ![](https://img.shields.io/github/languages/top/trustedsec/CS-Situational-Awareness-BOF)     |
 |  ALL   |   [QueueUserAPC_PPID](https://github.com/m57/cobaltstrike_bofs)  |   BOF spawns a process of your choice under a specified parent, and injects a provided shellcode file via QueueUserAPC().  |  ![](https://img.shields.io/github/stars/m57/cobaltstrike_bofs)   | ![](https://img.shields.io/github/languages/top/m57/cobaltstrike_bofs)     |
 |  ALL   |   [bof_helper](https://github.com/dtmsecurity/bof_helper)  |   Beacon Object File (BOF) Creation Helper  |  ![](https://img.shields.io/github/stars/dtmsecurity/bof_helper)   | ![](https://img.shields.io/github/languages/top/dtmsecurity/bof_helper)     |
+|  ALL   |   [BOF-DLL-Inject](https://github.com/tomcarver16/BOF-DLL-Inject)  |   BOF DLL Inject is a custom Beacon Object File that uses manual map DLL injection in order to migrate a dll into a process all from memory.  |  ![](https://img.shields.io/github/stars/tomcarver16/BOF-DLL-Inject)   | ![](https://img.shields.io/github/languages/top/tomcarver16/BOF-DLL-Inject)     |
 
 
 ### 0x04 Aggressor Script
@@ -159,7 +160,8 @@
 |  Auxiliary   |   [Ansible-Cobalt-Strike](https://github.com/jfmaes/Ansible-Cobalt-Strike)  | An Ansible role to install cobalt-strike on debian based architectures, let's be honest it's for kali. |  ![](https://img.shields.io/github/stars/jfmaes/Ansible-Cobalt-Strike)   | ![](https://img.shields.io/github/languages/top/jfmaes/Ansible-Cobalt-Strike)     |
 |  Synthesis   |   [redi](https://github.com/taherio/redi)  | Automated script for setting up CobaltStrike redirectors (nginx reverse proxy, letsencrypt) |  ![](https://img.shields.io/github/stars/taherio/redi)   | ![](https://img.shields.io/github/languages/top/taherio/redi)     |
 |  Synthesis   |   [cs2modrewrite](https://github.com/threatexpress/cs2modrewrite)  | Automatically Generate Rulesets for Apache mod_rewrite or Nginx for Intelligent HTTP C2 Redirection |  ![](https://img.shields.io/github/stars/threatexpress/cs2modrewrite)   | ![](https://img.shields.io/github/languages/top/threatexpress/cs2modrewrite)     |
-|  Synthesis   |   [Red-EC2](https://github.com/jfmaes/Red-EC2)  | Deploy RedTeam Specific EC2 via ansible.) |  ![](https://img.shields.io/github/stars/jfmaes/Red-EC2)   | ![](https://img.shields.io/github/languages/top/jfmaes/Red-EC2)     |
+|  Synthesis   |   [Red-EC2](https://github.com/jfmaes/Red-EC2)  | Deploy RedTeam Specific EC2 via ansible. |  ![](https://img.shields.io/github/stars/jfmaes/Red-EC2)   | ![](https://img.shields.io/github/languages/top/jfmaes/Red-EC2)     |
+|  Synthesis   |   [CobaltPatch](https://github.com/SecIdiot/CobaltPatch)  | Cobalt Strike Malleable Profile Inline Patch Template: A Position Independent Code (PIC) Code Template For Creating Shellcode That Can Be Appended In Stage / Post-Ex Blocks. Made for C Programmers |  ![](https://img.shields.io/github/stars/SecIdiot/CobaltPatch)   | ![](https://img.shields.io/github/languages/top/SecIdiot/CobaltPatch)     |
 
 ### 0x06 Source Code
 
