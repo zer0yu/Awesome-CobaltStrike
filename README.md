@@ -13,7 +13,6 @@
 - [0x03 BOF](#0x03-bof)
 - [0x04 Aggressor Script](#0x04-aggressor-script)
 - [0x05 Related Tools](#0x05-related-tools)
-- [0x06 Source Code](#0x06-source-code)
 
 ### 0x00 前言
 1. 第一部分是关于CobaltStrike优质文章的集合
