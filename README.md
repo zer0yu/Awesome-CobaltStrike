@@ -1,5 +1,20 @@
 # Awesome CobaltStrike ![Awesome CobaltStrike](https://img.shields.io/badge/awesome-cobaltstrike-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
 
+### 目录
+
+- [0x00 前言](#0x00---)
+- [0x01 相关文章合集](#0x01-------)
+  * [1. 基础知识参考](#1-------)
+  * [2. 破解以及定制参考](#2---------)
+  * [3. 使用技巧参考](#3-------)
+  * [4. CobaltStrike隐匿参考](#4-cobaltstrike----)
+  * [5. CobaltStrike分析参考](#5-cobaltstrike----)
+- [0x02 C2 Profiles](#0x02-c2-profiles)
+- [0x03 BOF](#0x03-bof)
+- [0x04 Aggressor Script](#0x04-aggressor-script)
+- [0x05 Related Tools](#0x05-related-tools)
+- [0x06 Source Code](#0x06-source-code)
+
 ### 0x00 前言
 1. 第一部分是关于CobaltStrike优质文章的集合
 2. 关于新特性BOF资源的整合
@@ -43,6 +58,8 @@
 1. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
 2. [CS 合法证书 + Powershell 上线](http://blog.leanote.com/post/snowming/6a724671de78)
 3. [Cobalt Strike 团队服务器隐匿](http://blog.leanote.com/post/snowming/d5d2b4ba20d0)
+4. [红队基础建设:隐藏你的C2 server](https://xz.aliyun.com/t/4509)
+5. [Cobalt Strike HTTP C2 Redirectors with Apache mod_rewrite](https://bluescreenofjeff.com/2016-06-28-cobalt-strike-http-c2-redirectors-with-apache-mod_rewrite/)
 
 #### 5. CobaltStrike分析参考
 1. Volatility Plugin for Detecting Cobalt Strike Beacon. [blog](https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html)|[Toolset](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
