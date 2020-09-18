@@ -85,6 +85,8 @@
 |  ALL   |   [bof_helper](https://github.com/dtmsecurity/bof_helper)  |   Beacon Object File (BOF) Creation Helper  |  ![](https://img.shields.io/github/stars/dtmsecurity/bof_helper)   | ![](https://img.shields.io/github/languages/top/dtmsecurity/bof_helper)     |
 |  ALL   |   [BOF-DLL-Inject](https://github.com/tomcarver16/BOF-DLL-Inject)  |   BOF DLL Inject is a custom Beacon Object File that uses manual map DLL injection in order to migrate a dll into a process all from memory.  |  ![](https://img.shields.io/github/stars/tomcarver16/BOF-DLL-Inject)   | ![](https://img.shields.io/github/languages/top/tomcarver16/BOF-DLL-Inject)     |
 |  ALL   |   [cobaltstrike_bofs](https://github.com/m57/cobaltstrike_bofs)  |   BOF spawns a process of your choice under a specified parent, and injects a provided shellcode file via QueueUserAPC().  |  ![](https://img.shields.io/github/stars/m57/cobaltstrike_bofs)   | ![](https://img.shields.io/github/languages/top/m57/cobaltstrike_bofs)     |
+|  Exploit   |   [CVE-2020-0796-BOF](https://github.com/rsmudge/CVE-2020-0796-BOF)  |   SMBGhost LPE  |  ![](https://img.shields.io/github/stars/rsmudge/CVE-2020-0796-BOF)   | ![](https://img.shields.io/github/languages/top/rsmudge/CVE-2020-0796-BOF)     |
+|  Exploit   |   [ZeroLogon-BOF](https://github.com/rsmudge/ZeroLogon-BOF)  |   ZeroLogon  |  ![](https://img.shields.io/github/stars/rsmudge/ZeroLogon-BOF)   | ![](https://img.shields.io/github/languages/top/rsmudge/ZeroLogon-BOF)     |
 
 
 ### 0x04 Aggressor Script
