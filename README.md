@@ -62,6 +62,10 @@
 3. [Cobalt Strike 团队服务器隐匿](http://blog.leanote.com/post/snowming/d5d2b4ba20d0)
 4. [红队基础建设:隐藏你的C2 server](https://xz.aliyun.com/t/4509)
 5. [Cobalt Strike HTTP C2 Redirectors with Apache mod_rewrite](https://bluescreenofjeff.com/2016-06-28-cobalt-strike-http-c2-redirectors-with-apache-mod_rewrite/)
+6. [深入研究cobalt strike malleable C2配置文件](https://xz.aliyun.com/t/2796)
+7. [A Brave New World: Malleable C2](http://www.harmj0y.net/blog/redteaming/a-brave-new-world-malleable-c2/)
+8. [How to Write Malleable C2 Profiles for Cobalt Strike](https://bluescreenofjeff.com/2017-01-24-how-to-write-malleable-c2-profiles-for-cobalt-strike/)
+9. [Randomized Malleable C2 Profiles Made Easy](https://bluescreenofjeff.com/2017-08-30-randomized-malleable-c2-profiles-made-easy/)
 
 #### 5. CobaltStrike分析参考
 1. Volatility Plugin for Detecting Cobalt Strike Beacon. [blog](https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html)|[Toolset](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
