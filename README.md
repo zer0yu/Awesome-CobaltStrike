@@ -52,6 +52,9 @@
 11. [CS 4.0 SMB Beacon](http://blog.leanote.com/post/snowming/8b7ce0f84c03)
 12. [Cobalt Strike 浏览器跳板攻击](http://blog.leanote.com/post/snowming/4e07af1cab60)
 13. [Cobalt Strike 中 Bypass UAC](http://blog.leanote.com/post/snowming/b6f671477095)
+14. [一起探索Cobalt Strike的ExternalC2框架](https://www.anquanke.com/post/id/103395/)
+15. [深入探索Cobalt Strike的ExternalC2框架](https://xz.aliyun.com/t/2239)
+16. [Cobalt Strike的特殊功能（external_C2）探究](https://www.anquanke.com/post/id/86980/)
 
 #### 4. CobaltStrike隐匿参考
 1. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
@@ -65,6 +68,7 @@
 2. [逆向分析Cobalt Strike安装后门](https://mp.weixin.qq.com/s/VHpcHzLc829hmQjrx1139A)
 3. [分析cobaltstrike c2 协议](https://github.com/verctor/Cobalt_Homework)
 4. Small [tool](https://github.com/Mkv4/cobaltstrike-authfile-decrypt) to decrypt a Cobalt Strike auth file
+5. [Cobalt Strike 的 ExternalC2](https://xz.aliyun.com/t/6565)
 
 ### 0x02 C2 Profiles
 
