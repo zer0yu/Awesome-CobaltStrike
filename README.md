@@ -178,6 +178,7 @@
 |  Synthesis   |   [Cobaltstrike-Aggressor-Scripts-Collection](https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection)  | The collection of tested cobaltstrike aggressor scripts. |  ![](https://img.shields.io/github/stars/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection)   | ![](https://img.shields.io/github/languages/top/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection)     |
 |  Synthesis   |   [aggressorScripts](https://github.com/Matrix20085/aggressorScripts)  | CobaltStrike AggressorScripts for the lazy |  ![](https://img.shields.io/github/stars/Matrix20085/aggressorScripts)   | ![](https://img.shields.io/github/languages/top/Matrix20085/aggressorScripts)     |
 |  Synthesis   |   [cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit)  | 集成了SharpHound,SharpRDP,SharpWMI等在内的各种内网工具，使用AggressorScripts构建workflow |  ![](https://img.shields.io/github/stars/josephkingstone/cobalt_strike_extension_kit)   | ![](https://img.shields.io/github/languages/top/josephkingstone/cobalt_strike_extension_kit)     |
+|  Synthesis   |   [cobaltstrike](https://github.com/wafinfo/cobaltstrike)  | 具备域管理员定位、域信息收集、权限维持、内网扫描、数据库hash dump、Everything内网搜索文件等功能的插件集合 |  ![](https://img.shields.io/github/stars/wafinfo/cobaltstrike)   | ![](https://img.shields.io/github/languages/top/wafinfo/cobaltstrike)     |
 
 ### 0x05 Related Tools
 |  Type   |   Name  |  Description   |  Popularity   |   Language  |
