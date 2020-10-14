@@ -82,7 +82,7 @@
 |  ALL   |   [Malleable-C2-Randomizer](https://github.com/bluscreenofjeff/Malleable-C2-Randomizer)  |   This script randomizes Cobalt Strike Malleable C2 profiles through the use of a metalanguage  |  ![](https://img.shields.io/github/stars/bluscreenofjeff/Malleable-C2-Randomizer)   | ![](https://img.shields.io/github/languages/top/bluscreenofjeff/Malleable-C2-Randomizer)|
 |  ALL   |   [malleable-c2](https://github.com/threatexpress/malleable-c2)  | Cobalt Strike Malleable C2 Design and Reference Guide  |  ![](https://img.shields.io/github/stars/threatexpress/malleable-c2)   | ![](https://img.shields.io/github/languages/top/threatexpress/malleable-c2) |
 |  ALL   |   [C2concealer](https://github.com/FortyNorthSecurity/C2concealer)  | C2concealer is a command line tool that generates randomized C2 malleable profiles for use in Cobalt Strike.  |  ![](https://img.shields.io/github/stars/FortyNorthSecurity/C2concealer)   | ![](https://img.shields.io/github/languages/top/FortyNorthSecurity/C2concealer) |
-
+|  ALL   |   [MalleableC2-Profiles](https://github.com/mhaskar/MalleableC2-Profiles)  | A collection of Cobalt Strike Malleable C2 profiles. now have Windows Updates Profile  |  ![](https://img.shields.io/github/stars/mhaskar/MalleableC2-Profiles)   | ![](https://img.shields.io/github/languages/top/mhaskar/MalleableC2-Profiles) |
 
 ### 0x03 BOF
 
