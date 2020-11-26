@@ -39,6 +39,7 @@
 5. [Cobalt Strike Aggressor Script （第一课）](https://payloads.online/archivers/2020-03-02/4)
 6. [Cobalt Strike Aggressor Script （第二课）](https://payloads.online/archivers/2020-03-02/5)
 7. [Implementing Syscalls In The Cobaltstrike Artifact Kit](https://br-sn.github.io/Implementing-Syscalls-In-The-CobaltStrike-Artifact-Kit/)
+8. [Cobalt Strike 4.0 认证及修补过程](https://xz.aliyun.com/t/8557)
 
 #### 3. 使用技巧参考
 1. [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
