@@ -42,6 +42,7 @@
 7. [Implementing Syscalls In The Cobaltstrike Artifact Kit](https://br-sn.github.io/Implementing-Syscalls-In-The-CobaltStrike-Artifact-Kit/)
 8. [Cobalt Strike 4.0 认证及修补过程](https://xz.aliyun.com/t/8557)
 9. [使用ReflectiveDLLInjection武装你的CobaltStrike](https://mp.weixin.qq.com/s/-Inh6uWV9YCz0zQYfitceA)
+10. [Bypass cobaltstrike beacon config scan](https://mp.weixin.qq.com/s/fhcTTWV4Ddz4h9KxHVRcnw)
 
 #### 3. 使用技巧参考
 1. [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
