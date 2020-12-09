@@ -83,6 +83,7 @@
 5. [Cobalt Strike 的 ExternalC2](https://xz.aliyun.com/t/6565)
 6. [Detecting Cobalt Strike Default Modules via Named Pipe Analysis](https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/)
 7. [浅析CobaltStrike Beacon Staging Server扫描](https://mp.weixin.qq.com/s/WUf96myUi8F3X_eNWPRTdw)
+8. [Striking Back at Retired Cobalt Strike: A look at a legacy vulnerability](https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-a-look-at-a-legacy-vulnerability/)
 
 ### 0x02 C2 Profiles
 
@@ -209,6 +210,7 @@
 |  AntiCobaltStrike   |   [cobaltstrike_brute](https://github.com/isafe/cobaltstrike_brute)  |   Cobalt Strike Team Server Password Brute Forcer  |  ![](https://img.shields.io/github/stars/isafe/cobaltstrike_brute)   | ![](https://img.shields.io/github/languages/top/isafe/cobaltstrike_brute)     |
 |  AntiCobaltStrike   |   [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan)  |   Scan files or process memory for Cobalt Strike beacons and parse their configuration.  |  ![](https://img.shields.io/github/stars/Apr4h/CobaltStrikeScan)   | ![](https://img.shields.io/github/languages/top/Apr4h/CobaltStrikeScan)     |
 |  AntiCobaltStrike   |   [grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config)  |   Simple PoC script to scan and acquire CobaltStrike Beacon configurations.  |  ![](https://img.shields.io/github/stars/whickey-r7/grab_beacon_config)   | ![](https://img.shields.io/github/languages/top/whickey-r7/grab_beacon_config)     |
+|  AntiCobaltStrike   |   [CS_Decrypt](https://github.com/WBGlIl/CS_Decrypt)  | 解密可以帮助你理解cs beacon通信原理，但注意密钥是在本地teamserver中  |  ![](https://img.shields.io/github/stars/WBGlIl/CS_Decrypt)   | ![](https://img.shields.io/github/languages/top/WBGlIl/CS_Decrypt)     |
 |  SourceCode   |   [CobaltStrike](https://github.com/Freakboy/CobaltStrike)  | CobaltStrike's source code,tested some code and function. |  ![](https://img.shields.io/github/stars/Freakboy/CobaltStrike)   | ![](https://img.shields.io/github/languages/top/Freakboy/CobaltStrike)     |
 |  Auxiliary   |   [pycobalt](https://github.com/dcsync/pycobalt)  | PyCobalt is a Python API for Cobalt Strike. |  ![](https://img.shields.io/github/stars/dcsync/pycobalt)   | ![](https://img.shields.io/github/languages/top/dcsync/pycobalt)     |
 |  Auxiliary   |   [redshell](https://github.com/Verizon/redshell)  | An interactive command prompt that executes commands through proxychains and automatically logs them on a Cobalt Strike team server. |  ![](https://img.shields.io/github/stars/Verizon/redshell)   | ![](https://img.shields.io/github/languages/top/Verizon/redshell)     |
