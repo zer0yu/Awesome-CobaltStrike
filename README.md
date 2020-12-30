@@ -61,6 +61,8 @@
 14. [一起探索Cobalt Strike的ExternalC2框架](https://www.anquanke.com/post/id/103395/)
 15. [深入探索Cobalt Strike的ExternalC2框架](https://xz.aliyun.com/t/2239)
 16. [Cobalt Strike的特殊功能（external_C2）探究](https://www.anquanke.com/post/id/86980/)
+17. [A tale of .NET assemblies, cobalt strike size constraints, and reflection](https://redteamer.tips/a-tale-of-net-assemblies-cobalt-strike-size-constraints-and-reflection/)
+18. [AppDomain.AssemblyResolve](https://offensivedefence.co.uk/posts/assembly-resolve/)
 
 #### 4. CobaltStrike隐匿参考
 1. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
