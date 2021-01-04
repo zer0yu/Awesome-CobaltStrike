@@ -63,6 +63,7 @@
 16. [Cobalt Strike的特殊功能（external_C2）探究](https://www.anquanke.com/post/id/86980/)
 17. [A tale of .NET assemblies, cobalt strike size constraints, and reflection](https://redteamer.tips/a-tale-of-net-assemblies-cobalt-strike-size-constraints-and-reflection/)
 18. [AppDomain.AssemblyResolve](https://offensivedefence.co.uk/posts/assembly-resolve/)
+19. [从webshell建立代理上线不出网的内网机器](https://mp.weixin.qq.com/s/mNCROss5pa4rkrWIIfjVfQ)
 
 #### 4. CobaltStrike隐匿参考
 1. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
