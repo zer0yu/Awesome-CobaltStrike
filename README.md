@@ -217,6 +217,7 @@
 |  Synthesis   |   [365CobaltStrike](https://github.com/0e0w/CobaltStrike)  | 兼容CobaltStrike4.0的插件集合 |  ![](https://img.shields.io/github/stars/0e0w/CobaltStrike)   | ![](https://img.shields.io/github/languages/top/0e0w/CobaltStrike)     |
 |  Synthesis   |   [CSPlugins](https://github.com/Al1ex/CSPlugins)  | 一个对Cobaltstrike第三方插件进行收集的项目，持续更新。 |  ![](https://img.shields.io/github/stars/Al1ex/CSPlugins)   | ![](https://img.shields.io/github/languages/top/Al1ex/CSPlugins)     |
 |  Synthesis   |   [CobaltStrike-xor](https://github.com/WBGlIl/CobaltStrike-file)  | third-party --> vnc_x86_dll and vnc_x64_dll |  ![](https://img.shields.io/github/stars/WBGlIl/CobaltStrike-file)   | ![](https://img.shields.io/github/languages/top/WBGlIl/CobaltStrike-file)     |
+|  Synthesis   |   [Z1-AggressorScripts](https://github.com/z1un/Z1-AggressorScripts)  | 适用于Cobalt Strike 3.x & 4.x 的内网渗透插件集合 |  ![](https://img.shields.io/github/stars/z1un/Z1-AggressorScripts)   | ![](https://img.shields.io/github/languages/top/z1un/Z1-AggressorScripts)     |
 
 ### 0x05 Related Tools
 |  Type   |   Name  |  Description   |  Popularity   |   Language  |
