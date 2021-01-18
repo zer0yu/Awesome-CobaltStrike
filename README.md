@@ -64,6 +64,8 @@
 17. [A tale of .NET assemblies, cobalt strike size constraints, and reflection](https://redteamer.tips/a-tale-of-net-assemblies-cobalt-strike-size-constraints-and-reflection/)
 18. [AppDomain.AssemblyResolve](https://offensivedefence.co.uk/posts/assembly-resolve/)
 19. [从webshell建立代理上线不出网的内网机器](https://mp.weixin.qq.com/s/mNCROss5pa4rkrWIIfjVfQ)
+20. [在Cobalt Strike BOF中进行直接系统调用](https://mp.weixin.qq.com/s/TLyQOupzep1BN7_nbjCXeQ)
+21. [Using Direct Syscalls in Cobalt Strike's Artifact Kit](https://www.youtube.com/watch?v=mZyMs2PP38w&feature=youtu.be&ab_channel=RaphaelMudge)
 
 #### 4. CobaltStrike隐匿参考
 1. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
