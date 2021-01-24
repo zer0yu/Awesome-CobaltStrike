@@ -2,35 +2,38 @@
 
 ### 目录
 
-- [0x00 前言](#0x00---)
-- [0x01 相关文章合集](#0x01-------)
+- [0x00 Introduction](#0x00-introduction)
+- [0x01 Articles & Videos](#0x01-articles---videos)
   * [1. 基础知识参考](#1-------)
   * [2. 破解以及定制参考](#2---------)
   * [3. 使用技巧参考](#3-------)
   * [4. CobaltStrike隐匿参考](#4-cobaltstrike----)
   * [5. CobaltStrike分析参考](#5-cobaltstrike----)
+  * [6. CobaltStrike视频资料](#6-cobaltstrike----)
 - [0x02 C2 Profiles](#0x02-c2-profiles)
 - [0x03 BOF](#0x03-bof)
 - [0x04 Aggressor Script](#0x04-aggressor-script)
 - [0x05 Related Tools](#0x05-related-tools)
+- [0x06 Related Resources](#0x06-related-resources)
 
-### 0x00 前言
+### 0x00 Introduction
 1. 第一部分是关于CobaltStrike优质文章的集合
 2. 第三部分是关于新特性BOF资源的整合
 3. 解决要用的时候找不到合适aggressor script或者BOF的问题
 4. 如果有本repo没有涉及的优质内容，欢迎大家提交pr
 
-### 0x01 相关文章合集
+### 0x01 Articles & Videos
 
 #### 1. 基础知识参考
 1. [Cobalt_Strike_wiki](https://github.com/aleenzz/Cobalt_Strike_wiki)
 2. [Cobalt Strike Book](https://wbglil.gitbook.io/cobalt-strike/)
 3. [CobaltStrike4.0笔记](https://github.com/Snowming04/CobaltStrike4.0_related)
 4. [CobaltStrike相关网络文章集合](https://4hou.win/wordpress/?cat=306)
-5. [Cobalt Strike 外部 C2【一、原理篇】](http://blog.leanote.com/post/snowming/50448511de58)
+5. [Cobalt Strike 外部 C2 之原理篇](http://blog.leanote.com/post/snowming/50448511de58)
 6. [Cobalt Strike 桌面控制问题的解决（以及屏幕截图等后渗透工具）](http://blog.leanote.com/post/snowming/32fabf2deae1)
 7. [Cobalt Strike & MetaSploit 联动](http://blog.leanote.com/post/snowming/43cef4b64cbd)
 8. [Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet)
+9. [Cobalt Strike MITRE TTPs](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence)
 
 #### 2. 破解以及定制参考
 1. [IntelliJ-IDEA修改cobaltstrike](https://pingmaoer.github.io/2020/06/08/IntelliJ-IDEA修改cobaltstrike/)
@@ -92,7 +95,40 @@
 7. [浅析CobaltStrike Beacon Staging Server扫描](https://mp.weixin.qq.com/s/WUf96myUi8F3X_eNWPRTdw)
 8. [Striking Back at Retired Cobalt Strike: A look at a legacy vulnerability](https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-a-look-at-a-legacy-vulnerability/)
 9. [Analyzing Cobalt Strike for Fun and Profit](https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/)
-10. [Defences against Cobalt Strike sources](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence)
+10. [Cobalt Strike Remote Threads detection](https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f)
+11. [The art and science of detecting Cobalt Strike](https://talos-intelligence-site.s3.amazonaws.com/production/document_files/files/000/095/031/original/Talos_Cobalt_Strike.pdf)
+12. [A Multi-Method Approach to Identifying Rogue Cobalt Strike Servers](https://go.recordedfuture.com/hubfs/reports/cta-2019-0618.pdf)
+13. [How to detect Cobalt Strike activities in memory forensics](https://www.andreafortuna.org/2020/11/22/how-to-detect-cobalt-strike-activity-in-memory-forensics/)
+14. [Detecting Cobalt Strike by Fingerprinting Imageload Events](https://redhead0ntherun.medium.com/detecting-cobalt-strike-by-fingerprinting-imageload-events-6c932185d67c)
+15. [The Anatomy of an APT Attack and CobaltStrike Beacon’s Encoded Configuration](https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/)
+16. [CobaltStrike - beacon.dll : Your No Ordinary MZ Header](https://tccontre.blogspot.com/2019/11/cobaltstrike-beacondll-your-not.html)
+17. [GitHub-hosted malware calculates Cobalt Strike payload from Imgur pic](https://www.bleepingcomputer.com/news/security/github-hosted-malware-calculates-cobalt-strike-payload-from-imgur-pic/)
+18. [Detecting Cobalt Strike beacons in NetFlow data](https://delaat.net/rp/2019-2020/p29/report.pdf)
+19. [Volatility Plugin for Detecting Cobalt Strike Beacon](https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html)
+20. [Easily Identify Malicious Servers on the Internet with JARM](https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a)
+21. [Cobalt Strike Beacon Analysis](https://isc.sans.edu/forums/diary/Quick+Tip+Cobalt+Strike+Beacon+Analysis/26818/)
+22. [Hancitor infection with Pony, Evil Pony, Ursnif, and Cobalt Strike](https://isc.sans.edu/forums/diary/Hancitor+infection+with+Pony+Evil+Pony+Ursnif+and+Cobalt+Strike/25532/)
+23. [Attackers Exploiting WebLogic Servers via CVE-2020-14882 to install Cobalt Strike](https://isc.sans.edu/forums/diary/Attackers+Exploiting+WebLogic+Servers+via+CVE202014882+to+install+Cobalt+Strike/26752/)
+24. [Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs](https://rhinosecuritylabs.com/aws/hiding-cloudcobalt-strike-beacon-c2-using-amazon-apis/)
+25. [Identifying Cobalt Strike team servers in the wild](https://blog.fox-it.com/2019/02/26/identifying-cobalt-strike-team-servers-in-the-wild/)
+26. [Multi-stage APT attack drops Cobalt Strike using Malleable C2 feature](https://blog.malwarebytes.com/threat-analysis/2020/06/multi-stage-apt-attack-drops-cobalt-strike-using-malleable-c2-feature/)
+27. [Operation Cobalt Kitty](http://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf)
+28. [Detecting and Advancing In-Memory .NET Tradecraft](https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/)
+29. [Analysing Fileless Malware: Cobalt Strike Beacon](https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/)
+30. [IndigoDrop spreads via military-themed lures to deliver Cobalt Strike](https://blog.talosintelligence.com/2020/06/indigodrop-maldocs-cobalt-strike.html)
+31. [Cobalt Group Returns To Kazakhstan](https://research.checkpoint.com/2019/cobalt-group-returns-to-kazakhstan/)
+32. [Striking Back at Retired Cobalt Strike: A look at a legacy vulnerability](https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-a-look-at-a-legacy-vulnerability/)
+33. [Azure Sentinel Quick-Deploy with Cyb3rWard0g’s Sentinel To-Go – Let’s Catch Cobalt Strike!](https://www.blackhillsinfosec.com/azure-sentinel-quick-deploy-with-cyb3rward0gs-sentinel-to-go-lets-catch-cobalt-strike/)
+34. [Cobalt Strike stagers used by FIN6](https://malwarelab.eu/posts/fin6-cobalt-strike/)
+35. [Malleable C2 Profiles and You](https://haggis-m.medium.com/malleable-c2-profiles-and-you-7c7ab43e7929)
+36. [C2 Traffic patterns including Cobalt Strike](https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/)
+
+#### 6. CobaltStrike视频资料
+
+1. [Malleable Memory Indicators with Cobalt Strike's Beacon Payload](https://www.youtube.com/watch?v=93GyP-mEUAw&feature=emb_title)
+2. [STAR Webcast: Spooky RYUKy: The Return of UNC1878](https://www.youtube.com/watch?v=BhjQ6zsCVSc)
+3. [Excel 4.0 Macros Analysis - Cobalt Strike Shellcode Injection](https://www.youtube.com/watch?v=XnN_UWfHlNM)
+4. [Profiling And Detecting All Things SSL With JA3](https://www.youtube.com/watch?v=oprPu7UIEuk)
 
 ### 0x02 C2 Profiles
 
@@ -236,11 +272,14 @@
 |  AntiCobaltStrike   |   [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan)  |   Scan files or process memory for Cobalt Strike beacons and parse their configuration.  |  ![](https://img.shields.io/github/stars/Apr4h/CobaltStrikeScan)   | ![](https://img.shields.io/github/languages/top/Apr4h/CobaltStrikeScan)     |
 |  AntiCobaltStrike   |   [grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config)  |   Simple PoC script to scan and acquire CobaltStrike Beacon configurations.  |  ![](https://img.shields.io/github/stars/whickey-r7/grab_beacon_config)   | ![](https://img.shields.io/github/languages/top/whickey-r7/grab_beacon_config)     |
 |  AntiCobaltStrike   |   [C2-JARM](https://github.com/cedowens/C2-JARM)  | 通过ssl实现所产生的JARM hash来识别不同的c2，例如CobaltStrike  |  ![](https://img.shields.io/github/stars/cedowens/C2-JARM)   | ![](https://img.shields.io/github/languages/top/cedowens/C2-JARM)     |
+|  AntiCobaltStrike   |   [JARM](https://github.com/salesforce/jarm)  | JARM fingerprints scanner |  ![](https://img.shields.io/github/stars/salesforce/jarm)   | ![](https://img.shields.io/github/languages/top/salesforce/jarm)     |
 |  AntiCobaltStrike   |   [DetectCobaltStomp](https://github.com/slaeryan/DetectCobaltStomp)  | A quick(and perhaps dirty!) PoC tool to detect Module Stomping as implemented by Cobalt Strike with moderate to high confidence  |  ![](https://img.shields.io/github/stars/slaeryan/DetectCobaltStomp)   | ![](https://img.shields.io/github/languages/top/slaeryan/DetectCobaltStomp)     |
-|  AntiCobaltStrike   |   [cobaltstrike](https://github.com/Te-k/cobaltstrike)  |  Analyzing Cobalt Strike for Fun and Profit   |  ![](https://img.shields.io/github/stars/Te-k/cobaltstrike)   | ![](https://img.shields.io/github/languages/top/Te-k/cobaltstrike)     |
-|  Analysis  |   [CS_Decrypt](https://github.com/WBGlIl/CS_Decrypt)  | 解密可以帮助你理解cs beacon通信原理，但注意密钥是在本地teamserver中  |  ![](https://img.shields.io/github/stars/WBGlIl/CS_Decrypt)   | ![](https://img.shields.io/github/languages/top/WBGlIl/CS_Decrypt)     |
-|  Analysis  |   [Beacon](https://github.com/SecIdiot/Beacon)  | Open Source Cobalt Strike Beacon. Unreleased, in research stages  |  ![](https://img.shields.io/github/stars/SecIdiot/Beacon)   | ![](https://img.shields.io/github/languages/top/SecIdiot/Beacon)     |
-|  Analysis  |   [PyBeacon](https://github.com/nccgroup/pybeacon)  | A collection of scripts for dealing with Cobalt Strike beacons in Python Resources  |  ![](https://img.shields.io/github/stars/nccgroup/pybeacon)   | ![](https://img.shields.io/github/languages/top/nccgroup/pybeacon)     |
+|  AntiCobaltStrike   |   [cobaltstrike](https://github.com/Te-k/cobaltstrike)  |  Code and yara rules to detect and analyze Cobalt Strike   |  ![](https://img.shields.io/github/stars/Te-k/cobaltstrike)   | ![](https://img.shields.io/github/languages/top/Te-k/cobaltstrike)     |
+|  AntiCobaltStrike  |   [CS_Decrypt](https://github.com/WBGlIl/CS_Decrypt)  | 解密可以帮助你理解cs beacon通信原理，但注意密钥是在本地teamserver中  |  ![](https://img.shields.io/github/stars/WBGlIl/CS_Decrypt)   | ![](https://img.shields.io/github/languages/top/WBGlIl/CS_Decrypt)     |
+|  AntiCobaltStrike  |   [PyBeacon](https://github.com/nccgroup/pybeacon)  | A collection of scripts for dealing with Cobalt Strike beacons in Python Resources  |  ![](https://img.shields.io/github/stars/nccgroup/pybeacon)   | ![](https://img.shields.io/github/languages/top/nccgroup/pybeacon)     |
+|  AntiCobaltStrike  |   [cobaltstrikescan](https://github.com/JPCERTCC/aa-tools/blob/master/cobaltstrikescan.py)  | Detecting CobaltStrike for Volatility  |  ![](https://img.shields.io/github/stars/JPCERTCC/aa-tools)   | ![](https://img.shields.io/github/languages/top/JPCERTCC/aa-tools)     |
+|  AntiCobaltStrike  |   [CobaltStrikeForensic](https://github.com/RomanEmelyanov/CobaltStrikeForensic)  | Toolset for research malware and Cobalt Strike beacons  |  ![](https://img.shields.io/github/stars/RomanEmelyanov/CobaltStrikeForensic)   | ![](https://img.shields.io/github/languages/top/RomanEmelyanov/CobaltStrikeForensic)     |
+|  Analysis  |   [Beacon](https://github.com/SecIdiot/Beacon)  | Open Source Cobalt Strike Beacon. Unreleased, in research stages  |  ![](https://img.shields.io/github/stars/SecIdiot/Beacon)   | ![](https://img.shields.io/github/languages/top/SecIdiot/Beacon)     |\
 |  BypassAV   |   [Cooolis-ms](https://github.com/Rvn0xsy/Cooolis-ms)  | Cooolis-ms是一个包含了Metasploit Payload Loader、Cobalt Strike External C2 Loader、Reflective DLL injection的代码执行工具，它的定位在于能够在静态查杀上规避一些我们将要执行且含有特征的代码，帮助红队人员更方便快捷的从Web容器环境切换到C2环境进一步进行工作。 |  ![](https://img.shields.io/github/stars/Rvn0xsy/Cooolis-ms)   | ![](https://img.shields.io/github/languages/top/Rvn0xsy/Cooolis-ms)     |
 |  Auxiliary   |   [CobaltPatch](https://github.com/SecIdiot/CobaltPatch)  | PyCobalt is a Python API for Cobalt Strike. |  ![](https://img.shields.io/github/stars/SecIdiot/CobaltPatch)   | ![](https://img.shields.io/github/languages/top/SecIdiot/CobaltPatch)     |
 |  Auxiliary   |   [pycobalt](https://github.com/dcsync/pycobalt)  | Cobalt Strike Malleable Profile Inline Patch Template: A Position Independent Code (PIC) Code Template For Creating Shellcode That Can Be Appended In Stage / Post-Ex Blocks. Made for C Programmers. |  ![](https://img.shields.io/github/stars/dcsync/pycobalt)   | ![](https://img.shields.io/github/languages/top/dcsync/pycobalt)     |
@@ -254,3 +293,15 @@
 |  Synthesis   |   [RedCommander](https://github.com/guidepointsecurity/RedCommander)  | Creates two Cobalt Strike C2 servers (DNS and HTTPS), with redirectors, and RedELK in Amazon AWS. Minimal setup required! Companion Blog [here](https://www.guidepointsecurity.com/2020/08/31/introducing-red-commander-a-guidepoint-security-open-source-project/) |  ![](https://img.shields.io/github/stars/guidepointsecurity/RedCommander)   | ![](https://img.shields.io/github/languages/top/guidepointsecurity/RedCommander)     |
 |  Synthesis   |   [CobaltPatch](https://github.com/SecIdiot/CobaltPatch)  | Cobalt Strike Malleable Profile Inline Patch Template: A Position Independent Code (PIC) Code Template For Creating Shellcode That Can Be Appended In Stage / Post-Ex Blocks. Made for C Programmers |  ![](https://img.shields.io/github/stars/SecIdiot/CobaltPatch)   | ![](https://img.shields.io/github/languages/top/SecIdiot/CobaltPatch)     |
 |  Synthesis   |   [CPLResourceRunner](https://github.com/rvrsh3ll/CPLResourceRunner)  | Run shellcode(Cobalt Strike) from resource |  ![](https://img.shields.io/github/stars/rvrsh3ll/CPLResourceRunner)   | ![](https://img.shields.io/github/languages/top/rvrsh3ll/CPLResourceRunner)     |
+
+### 0x06 Related Resources
+|  Type   |   Name  |  Description   |  Popularity   |
+|:---:|:---:|:---:|:---:|
+|  DATA   |   [SilasCutler JARM Scan CobaltStrike Beacon Config.json](https://pastebin.com/DzsPgH9w)  |  SilasCutler JARM Scan CobaltStrike Beacon Config  |  ![](https://img.shields.io/static/v1?label=data&message=hot&color=red)   |
+|  DATA   |   [Cobalt Strike hashes](https://bazaar.abuse.ch/browse/yara/CobaltStrike/)  |  This page shows some basic information the Yara rule CobaltStrike including corresponding malware samples.  |  ![](https://img.shields.io/static/v1?label=data&message=hot&color=red)   |
+|  DATA   |   [List of Cobalt Strike servers](https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWSGrw/edit#gid=766378683)  |  List of Cobalt Strike servers  |  ![](https://img.shields.io/static/v1?label=data&message=hot&color=red)   |
+|  DATA   |   [CobaltStrike samples pass=infected](https://www.dropbox.com/s/o5493msqarg3iyu/Cobalt%20Strike.7z?dl=0)  |  CobaltStrike samples  |  ![](https://img.shields.io/static/v1?label=data&message=hot&color=red)   |
+|  DATA   |   [List of spawns from exposed Cobalt Strike C2](https://gist.github.com/MHaggis/bdcd0e6d5c727e5b297a3e69e6c52286)  |  List of spawns from exposed Cobalt Strike C2  |  ![](https://img.shields.io/static/v1?label=data&message=hot&color=red)   |
+|  YARA   |   [apt_cobaltstrike](https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar)  |  Cobalt Strike Yara  |  ![](https://img.shields.io/static/v1?label=yara&message=hot&color=red)   |
+|  YARA   |   [apt_cobaltstrike_evasive](https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike_evasive.yar)  |  Cobalt Strike Yara  |  ![](https://img.shields.io/static/v1?label=yara&message=hot&color=red)   |
+|  YARA   |   [rules](https://github.com/Te-k/cobaltstrike/blob/master/rules.yar)  |  Cobalt Strike Yara  |  ![](https://img.shields.io/static/v1?label=yara&message=hot&color=red)   |
