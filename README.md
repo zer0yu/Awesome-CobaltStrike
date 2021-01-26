@@ -70,7 +70,6 @@
 20. [在Cobalt Strike BOF中进行直接系统调用](https://mp.weixin.qq.com/s/TLyQOupzep1BN7_nbjCXeQ)
 21. [Using Direct Syscalls in Cobalt Strike's Artifact Kit](https://www.youtube.com/watch?v=mZyMs2PP38w&feature=youtu.be&ab_channel=RaphaelMudge)
 22. [Cobalt Strike Staging and Extracting Configuration Information](https://blog.securehat.co.uk/cobaltstrike/extracting-config-from-cobaltstrike-stager-shellcode)
-23. [Cobalt-Strike-Notes](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet)
 
 #### 4. CobaltStrike隐匿参考
 1. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
