@@ -266,6 +266,8 @@
 |  Synthesis   |   [CSPlugins](https://github.com/Al1ex/CSPlugins)  | 一个对Cobaltstrike第三方插件进行收集的项目，持续更新。 |  ![](https://img.shields.io/github/stars/Al1ex/CSPlugins)   | ![](https://img.shields.io/github/languages/top/Al1ex/CSPlugins)     |
 |  Synthesis   |   [CobaltStrike-xor](https://github.com/WBGlIl/CobaltStrike-file)  | third-party --> vnc_x86_dll and vnc_x64_dll |  ![](https://img.shields.io/github/stars/WBGlIl/CobaltStrike-file)   | ![](https://img.shields.io/github/languages/top/WBGlIl/CobaltStrike-file)     |
 |  Synthesis   |   [Z1-AggressorScripts](https://github.com/z1un/Z1-AggressorScripts)  | 适用于Cobalt Strike 3.x & 4.x 的内网渗透插件集合 |  ![](https://img.shields.io/github/stars/z1un/Z1-AggressorScripts)   | ![](https://img.shields.io/github/languages/top/z1un/Z1-AggressorScripts)     |
+|  Synthesis   |   [csplugin](https://github.com/422926799/csplugin)  | 导入PowerView脚本，和常见的功能使用 |  ![](https://img.shields.io/github/stars/422926799/csplugin)   | ![](https://img.shields.io/github/languages/top/422926799/csplugin)     |
+|  Synthesis   |   [CSplugins](https://github.com/SeaOf0/CSplugins)  | 涉及工作目录、信息收集、凭据获取、权限维持、权限提升、用户相关、RDP相关、防火墙相关、域渗透、powershell相关、内网穿透、内网探测、远程文件下载、痕迹清除的综合型插件系统 |  ![](https://img.shields.io/github/stars/SeaOf0/CSplugins)   | ![](https://img.shields.io/github/languages/top/SeaOf0/CSplugins)     |
 
 ### 0x05 Related Tools
 |  Type   |   Name  |  Description   |  Popularity   |   Language  |
