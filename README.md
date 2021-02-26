@@ -1,6 +1,6 @@
 # Awesome CobaltStrike ![Awesome CobaltStrike](https://img.shields.io/badge/awesome-cobaltstrike-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
 
-### 目录
+### Contents
 
 - [0x00 Introduction](#0x00-introduction)
 - [0x01 Articles & Videos](#0x01-articles---videos)
@@ -289,6 +289,7 @@
 |  AntiCobaltStrike  |   [PyBeacon](https://github.com/nccgroup/pybeacon)  | A collection of scripts for dealing with Cobalt Strike beacons in Python Resources  |  ![](https://img.shields.io/github/stars/nccgroup/pybeacon)   | ![](https://img.shields.io/github/languages/top/nccgroup/pybeacon)     |
 |  AntiCobaltStrike  |   [cobaltstrikescan](https://github.com/JPCERTCC/aa-tools/blob/master/cobaltstrikescan.py)  | Detecting CobaltStrike for Volatility  |  ![](https://img.shields.io/github/stars/JPCERTCC/aa-tools)   | ![](https://img.shields.io/github/languages/top/JPCERTCC/aa-tools)     |
 |  AntiCobaltStrike  |   [CobaltStrikeForensic](https://github.com/RomanEmelyanov/CobaltStrikeForensic)  | Toolset for research malware and Cobalt Strike beacons  |  ![](https://img.shields.io/github/stars/RomanEmelyanov/CobaltStrikeForensic)   | ![](https://img.shields.io/github/languages/top/RomanEmelyanov/CobaltStrikeForensic)     |
+|  AntiCobaltStrike  |   [DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan)  | A simple tool to find backdoors including but not limited to iis hijacking, fileless Trojan, bypass AV shellcode.  |  ![](https://img.shields.io/github/stars/huoji120/DuckMemoryScan)   | ![](https://img.shields.io/github/languages/top/huoji120/DuckMemoryScan)     |
 |  Analysis  |   [Beacon](https://github.com/SecIdiot/Beacon)  | Open Source Cobalt Strike Beacon. Unreleased, in research stages  |  ![](https://img.shields.io/github/stars/SecIdiot/Beacon)   | ![](https://img.shields.io/github/languages/top/SecIdiot/Beacon)     |\
 |  BypassAV   |   [Cooolis-ms](https://github.com/Rvn0xsy/Cooolis-ms)  | Cooolis-ms是一个包含了Metasploit Payload Loader、Cobalt Strike External C2 Loader、Reflective DLL injection的代码执行工具，它的定位在于能够在静态查杀上规避一些我们将要执行且含有特征的代码，帮助红队人员更方便快捷的从Web容器环境切换到C2环境进一步进行工作。 |  ![](https://img.shields.io/github/stars/Rvn0xsy/Cooolis-ms)   | ![](https://img.shields.io/github/languages/top/Rvn0xsy/Cooolis-ms)     |
 |  BypassAV   |   [UrbanBishopLocal](https://github.com/slyd0g/UrbanBishopLocal)  | A port of FuzzySecurity's [UrbanBishop](https://github.com/FuzzySecurity/Sharp-Suite#urbanbishop) project for inline shellcode execution. |  ![](https://img.shields.io/github/stars/slyd0g/UrbanBishopLocal)   | ![](https://img.shields.io/github/languages/top/slyd0g/UrbanBishopLocal)     |
