@@ -126,6 +126,7 @@
 34. [Cobalt Strike stagers used by FIN6](https://malwarelab.eu/posts/fin6-cobalt-strike/)
 35. [Malleable C2 Profiles and You](https://haggis-m.medium.com/malleable-c2-profiles-and-you-7c7ab43e7929)
 36. [C2 Traffic patterns including Cobalt Strike](https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/)
+37. [Cobalt Strike DNS Direct Egress Not That Far Away](https://dtm.uk/cobalt-strike-dns-direct-egress/)
 
 #### 6. CobaltStrike视频资料
 
