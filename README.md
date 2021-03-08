@@ -86,6 +86,8 @@
 10. [关于CobaltStrike的Stager被扫问题](https://mp.weixin.qq.com/s/0MPM3bysJJYr5jbRnES_Vg)
 11. [Beacon Stager listener 去特征](https://mp.weixin.qq.com/s/HibtLfikI_0ezcLVCRxqaA)
 12. [检测与隐藏Cobaltstrike服务器](https://hosch3n.github.io/2020/12/16/%E6%A3%80%E6%B5%8B%E4%B8%8E%E9%9A%90%E8%97%8FCobaltstrike%E6%9C%8D%E5%8A%A1%E5%99%A8/)
+13. [记一次cs bypass卡巴斯基内存查杀](https://xz.aliyun.com/t/9224)
+14. [Cobalt Strike – Bypassing C2 Network Detections](https://newtonpaul.com/cobalt-strike-bypassing-c2-network-detections/)
 
 #### 5. CobaltStrike分析参考
 1. Volatility Plugin for Detecting Cobalt Strike Beacon. [blog](https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html)|[Toolset](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
