@@ -48,6 +48,7 @@
 10. [Bypass cobaltstrike beacon config scan](https://mp.weixin.qq.com/s/fhcTTWV4Ddz4h9KxHVRcnw)
 11. [Tailoring Cobalt Strike on Target](https://blog.xpnsec.com/tailoring-cobalt-strike-on-target/)
 12. [COFFLOADER: BUILDING YOUR OWN IN MEMORY LOADER OR HOW TO RUN BOFS](https://www.trustedsec.com/blog/coffloader-building-your-own-in-memory-loader-or-how-to-run-bofs/)
+13. [Yet Another Cobalt Strike Stager: GUID Edition](https://www.guidepointsecurity.com/yet-another-cobalt-strike-loader-guid-edition/)
 
 #### 3. 使用技巧参考
 1. [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
