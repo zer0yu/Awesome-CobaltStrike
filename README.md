@@ -4,12 +4,12 @@
 
 - [0x00 Introduction](#0x00-introduction)
 - [0x01 Articles & Videos](#0x01-articles---videos)
-  * [1. 基础知识参考](#1-------)
-  * [2. 破解以及定制参考](#2---------)
-  * [3. 使用技巧参考](#3-------)
-  * [4. CobaltStrike隐匿参考](#4-cobaltstrike----)
-  * [5. CobaltStrike分析参考](#5-cobaltstrike----)
-  * [6. CobaltStrike视频资料](#6-cobaltstrike----)
+  * [1. Basic Knowledge](#1-Basic-Knowledge)
+  * [2. Crack and Customisation](#2-Crack-and-Customisation)
+  * [3. Useful Trick](#3-Useful-Trick)
+  * [4. CobaltStrike Hide](#4-CobaltStrike-Hide)
+  * [5. CobaltStrike Analysis](#5-CobaltStrike-Analysis)
+  * [6. CobaltStrike Video](#6-CobaltStrike-Video)
 - [0x02 C2 Profiles](#0x02-c2-profiles)
 - [0x03 BOF](#0x03-bof)
 - [0x04 Aggressor Script](#0x04-aggressor-script)
@@ -17,14 +17,14 @@
 - [0x06 Related Resources](#0x06-related-resources)
 
 ### 0x00 Introduction
-1. 第一部分是关于CobaltStrike优质文章的集合
-2. 第三部分是关于新特性BOF资源的整合
-3. 解决要用的时候找不到合适aggressor script或者BOF的问题
-4. 如果有本repo没有涉及的优质内容，欢迎大家提交pr
+1. The first part is a collection of quality articles about CobaltStrike
+2. The third part is about the integration of the new features BOF resources
+3. This project is to solve the problem of not finding the right aggressor script or BOF when it is needed
+4. If there is quality content that is not covered in this repo, welcome to submit pr
 
 ### 0x01 Articles & Videos
 
-#### 1. 基础知识参考
+#### 1. Basic Knowledge
 1. [Cobalt_Strike_wiki](https://github.com/aleenzz/Cobalt_Strike_wiki)
 2. [Cobalt Strike Book](https://wbglil.gitbook.io/cobalt-strike/)
 3. [CobaltStrike4.0笔记](https://github.com/Snowming04/CobaltStrike4.0_related)
@@ -35,7 +35,7 @@
 8. [Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet)
 9. [Cobalt Strike MITRE TTPs](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence)
 
-#### 2. 破解以及定制参考
+#### 2. Crack and Customisation
 1. [IntelliJ-IDEA修改cobaltstrike](https://pingmaoer.github.io/2020/06/08/IntelliJ-IDEA修改cobaltstrike/)
 2. [CobaltStrike二次开发环境准备](https://pingmaoer.github.io/2020/06/24/CobaltStrike二次开发环境准备/)
 3. [Cobal Strike 自定义OneLiner](https://evi1cg.me/archives/Custom_Oneliner.html)
@@ -50,7 +50,7 @@
 12. [COFFLOADER: BUILDING YOUR OWN IN MEMORY LOADER OR HOW TO RUN BOFS](https://www.trustedsec.com/blog/coffloader-building-your-own-in-memory-loader-or-how-to-run-bofs/)
 13. [Yet Another Cobalt Strike Stager: GUID Edition](https://www.guidepointsecurity.com/yet-another-cobalt-strike-loader-guid-edition/)
 
-#### 3. 使用技巧参考
+#### 3. Useful Trick
 1. [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
 2. [run CS in win -- teamserver.bat](https://evi1cg.me/archives/teamserver.html)
 3. [Remote NTLM relaying through CS -- related to CVE_2018_8581](https://evi1cg.me/archives/Remote_NTLM_relaying_through_CS.html)
@@ -74,7 +74,7 @@
 21. [Using Direct Syscalls in Cobalt Strike's Artifact Kit](https://www.youtube.com/watch?v=mZyMs2PP38w&feature=youtu.be&ab_channel=RaphaelMudge)
 22. [Cobalt Strike Staging and Extracting Configuration Information](https://blog.securehat.co.uk/cobaltstrike/extracting-config-from-cobaltstrike-stager-shellcode)
 
-#### 4. CobaltStrike隐匿参考
+#### 4. CobaltStrike Hide
 1. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
 2. [CS 合法证书 + Powershell 上线](http://blog.leanote.com/post/snowming/6a724671de78)
 3. [Cobalt Strike 团队服务器隐匿](http://blog.leanote.com/post/snowming/d5d2b4ba20d0)
@@ -90,7 +90,7 @@
 13. [记一次cs bypass卡巴斯基内存查杀](https://xz.aliyun.com/t/9224)
 14. [Cobalt Strike – Bypassing C2 Network Detections](https://newtonpaul.com/cobalt-strike-bypassing-c2-network-detections/)
 
-#### 5. CobaltStrike分析参考
+#### 5. CobaltStrike Analysis
 1. Volatility Plugin for Detecting Cobalt Strike Beacon. [blog](https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html)|[Toolset](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
 2. [逆向分析Cobalt Strike安装后门](https://mp.weixin.qq.com/s/VHpcHzLc829hmQjrx1139A)
 3. [分析cobaltstrike c2 协议](https://github.com/verctor/Cobalt_Homework)
@@ -131,7 +131,7 @@
 38. [Detecting Exposed Cobalt Strike DNS Redirectors](https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors)
 39. [Example of Cleartext Cobalt Strike Traffic](https://isc.sans.edu/forums/diary/Example+of+Cleartext+Cobalt+Strike+Traffic+Thanks+Brad/27300/)
 
-#### 6. CobaltStrike视频资料
+#### 6. CobaltStrike Video
 
 1. [Malleable Memory Indicators with Cobalt Strike's Beacon Payload](https://www.youtube.com/watch?v=93GyP-mEUAw&feature=emb_title)
 2. [STAR Webcast: Spooky RYUKy: The Return of UNC1878](https://www.youtube.com/watch?v=BhjQ6zsCVSc)
