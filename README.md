@@ -147,6 +147,7 @@
 |  ALL   |   [malleable-c2](https://github.com/threatexpress/malleable-c2)  | Cobalt Strike Malleable C2 Design and Reference Guide  |  ![](https://img.shields.io/github/stars/threatexpress/malleable-c2)   | ![](https://img.shields.io/github/languages/top/threatexpress/malleable-c2) |
 |  ALL   |   [C2concealer](https://github.com/FortyNorthSecurity/C2concealer)  | C2concealer is a command line tool that generates randomized C2 malleable profiles for use in Cobalt Strike.  |  ![](https://img.shields.io/github/stars/FortyNorthSecurity/C2concealer)   | ![](https://img.shields.io/github/languages/top/FortyNorthSecurity/C2concealer) |
 |  ALL   |   [MalleableC2-Profiles](https://github.com/mhaskar/MalleableC2-Profiles)  | A collection of Cobalt Strike Malleable C2 profiles. now have Windows Updates Profile  |  ![](https://img.shields.io/github/stars/mhaskar/MalleableC2-Profiles)   | ![](https://img.shields.io/github/languages/top/mhaskar/MalleableC2-Profiles) |
+|  ALL   |   [pyMalleableC2](https://github.com/Porchetta-Industries/pyMalleableC2)  | A Python interpreter for Cobalt Strike Malleable C2 profiles that allows you to parse, modify, build them programmatically and validate syntax.  |  ![](https://img.shields.io/github/stars/Porchetta-Industries/pyMalleableC2)   | ![](https://img.shields.io/github/languages/top/Porchetta-Industries/pyMalleableC2) |
 
 ### 0x03 BOF
 
