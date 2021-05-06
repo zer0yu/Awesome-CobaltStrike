@@ -343,6 +343,7 @@
 |  DATA   |   [List of Cobalt Strike servers](https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWSGrw/edit#gid=766378683)  |  List of Cobalt Strike servers  |  ![](https://img.shields.io/static/v1?label=data&message=hot&color=red)   |
 |  DATA   |   [CobaltStrike samples pass=infected](https://www.dropbox.com/s/o5493msqarg3iyu/Cobalt%20Strike.7z?dl=0)  |  CobaltStrike samples  |  ![](https://img.shields.io/static/v1?label=data&message=hot&color=red)   |
 |  DATA   |   [List of spawns from exposed Cobalt Strike C2](https://gist.github.com/MHaggis/bdcd0e6d5c727e5b297a3e69e6c52286)  |  List of spawns from exposed Cobalt Strike C2  |  ![](https://img.shields.io/static/v1?label=data&message=hot&color=red)   |
+|  DATA   |   [C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds)  |  Automatically created C2 Feeds based of Censys  |  ![](https://img.shields.io/static/v1?label=data&message=hot&color=red)   |
 |  YARA   |   [apt_cobaltstrike](https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar)  |  Cobalt Strike Yara  |  ![](https://img.shields.io/static/v1?label=yara&message=hot&color=red)   |
 |  YARA   |   [apt_cobaltstrike_evasive](https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike_evasive.yar)  |  Cobalt Strike Yara  |  ![](https://img.shields.io/static/v1?label=yara&message=hot&color=red)   |
 |  YARA   |   [rules](https://github.com/Te-k/cobaltstrike/blob/master/rules.yar)  |  Cobalt Strike Yara  |  ![](https://img.shields.io/static/v1?label=yara&message=hot&color=red)   |
