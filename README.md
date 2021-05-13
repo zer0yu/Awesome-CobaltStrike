@@ -130,6 +130,10 @@
 37. [Cobalt Strike DNS Direct Egress Not That Far Away](https://dtm.uk/cobalt-strike-dns-direct-egress/)
 38. [Detecting Exposed Cobalt Strike DNS Redirectors](https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors)
 39. [Example of Cleartext Cobalt Strike Traffic](https://isc.sans.edu/forums/diary/Example+of+Cleartext+Cobalt+Strike+Traffic+Thanks+Brad/27300/)
+40. [Cobaltstrike-Beacons analyzed](https://zero.bs/cobaltstrike-beacons-analyzed.html)
+41. [通过DNS协议探测Cobalt Strike服务器](https://mp.weixin.qq.com/s/peIpPJLt4NuJI1a31S_qbQ)
+42. [Detecting Cobalt Strike with memory signatures](https://www.elastic.co/cn/blog/detecting-cobalt-strike-with-memory-signatures)
+43. 
 
 #### 6. CobaltStrike Video
 
