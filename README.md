@@ -37,6 +37,7 @@
 10. [Red Team Operations with Cobalt Strike (2019)](https://github.com/martabyte/Red-Team-Ops/blob/main/Red-Team-Ops.md)
 11. [Cobalt Strike: Overview](https://blog.nviso.eu/2022/03/22/cobalt-strike-overview-part-7/)
 12. [CobaltStrike插件开发](https://t.zsxq.com/04RfYVNzb)
+13. [Cobalt Strike 中文 Wiki](https://github.com/XXC385/Cobalt-Strike-Start)
 
 #### 2. Crack and Customisation
 1. [IntelliJ-IDEA修改cobaltstrike](https://pingmaoer.github.io/2020/06/08/IntelliJ-IDEA修改cobaltstrike/)
@@ -481,6 +482,7 @@
 |  AntiCobaltStrike  |   [EvilEye](https://github.com/akkuman/EvilEye)  | EvilEye is a BeaconEye implement in Golang.  |  ![](https://img.shields.io/github/stars/akkuman/EvilEye)   | ![](https://img.shields.io/github/languages/top/akkuman/EvilEye)     |
 |  AntiCobaltStrike  |   [Hunt-Sleeping-Beacons](https://github.com/akkuman/EvilEye)  | The idea of this project is to identify beacons which are unpacked at runtime or running in the context of another process (=InMemory malware)..  |  ![](https://img.shields.io/github/stars/thefLink/Hunt-Sleeping-Beacons)   | ![](https://img.shields.io/github/languages/top/thefLink/Hunt-Sleeping-Beacons)     |
 |  AntiCobaltStrike   |   [CSRouge](https://github.com/Firebasky/CSRouge)  |   恶意的CS服务器,只能urldns  |  ![](https://img.shields.io/github/stars/Firebasky/CSRouge)   | ![](https://img.shields.io/github/languages/top/Firebasky/CSRouge)     |
+|  AntiCobaltStrike   |   [Cobalt Strike Discovery](https://github.com/eremit4/cs-discovery)  |   Finds Cobalt Strike fingerprint on targets via traffic telemetry  |  ![](https://img.shields.io/github/stars/eremit4/cs-discovery)   | ![](https://img.shields.io/github/languages/top/eremit4/cs-discovery)     |
 |  Anti-AntiCobaltStrike  |   [bypass-beacon-config-scan](https://github.com/qigpig/bypass-beacon-config-scan)  | Bypass cobaltstrike beacon config scan for 4.1  |  ![](https://img.shields.io/github/stars/qigpig/bypass-beacon-config-scan)   | ![](https://img.shields.io/github/languages/top/qigpig/bypass-beacon-config-scan)   |
 |  Anti-AntiCobaltStrike  |   [bypass-beacon-config-scan](https://github.com/lovechoudoufu/GoogleCSAgent_cdf)  | CSAgent 与 GoogleAuth 的缝合体，cobalt strike4.4版本的破解+otp动态口令的agent |  ![](https://img.shields.io/github/stars/lovechoudoufu/GoogleCSAgent_cdf)   | ![](https://img.shields.io/github/languages/top/lovechoudoufu/GoogleCSAgent_cdf)   |
 |  BypassAV   |   [Cooolis-ms](https://github.com/Rvn0xsy/Cooolis-ms)  | Cooolis-ms是一个包含了Metasploit Payload Loader、Cobalt Strike External C2 Loader、Reflective DLL injection的代码执行工具，它的定位在于能够在静态查杀上规避一些我们将要执行且含有特征的代码，帮助红队人员更方便快捷的从Web容器环境切换到C2环境进一步进行工作。 |  ![](https://img.shields.io/github/stars/Rvn0xsy/Cooolis-ms)   | ![](https://img.shields.io/github/languages/top/Rvn0xsy/Cooolis-ms)     |
