@@ -55,6 +55,7 @@
 13. [Yet Another Cobalt Strike Stager: GUID Edition](https://www.guidepointsecurity.com/yet-another-cobalt-strike-loader-guid-edition/)
 14. [Cobalt Strike4.3 破解日记](https://blog.pr0ph3t.com/posts/Cobalt-Strike4.3%E7%A0%B4%E8%A7%A3%E6%97%A5%E8%AE%B0/)
 15. [Cobalt Strike 进程创建与对应的 Syslog 日志分析](https://hausec.com/2021/07/26/cobalt-strike-and-tradecraft/)
+16. [Behind the Mask: Spoofing Call Stacks Dynamically with Timers](https://www.cobaltstrike.com/blog/behind-the-mask-spoofing-call-stacks-dynamically-with-timers/)
 
 #### 3. Useful Trick
 1. [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
@@ -567,6 +568,7 @@
 |  Dev   |   [beacon](https://github.com/SecIdiot/beacon)  | Former attempt at creating a independent Cobalt Strike Beacon |  ![](https://img.shields.io/github/stars/SecIdiot/beacon)   | ![](https://img.shields.io/github/languages/top/SecIdiot/beacon)     |
 |  Dev   |   [ExternalC2.NET](https://github.com/rasta-mouse/ExternalC2.NET)  | .NET Standard 2.0 libraries which implement Cobalt Strike's External C2 specfication (revision 0.1). |  ![](https://img.shields.io/github/stars/rasta-mouse/ExternalC2.NET)   | ![](https://img.shields.io/github/languages/top/rasta-mouse/ExternalC2.NET)     |
 |  Dev   |   [GPUSleep](https://github.com/oXis/GPUSleep)  | GPUSleep moves the beacon image to GPU memory before the beacon sleeps, and move it back to main memory after sleeping. |  ![](https://img.shields.io/github/stars/oXis/GPUSleep)   | ![](https://img.shields.io/github/languages/top/oXis/GPUSleep)     |
+|  Dev   |   [CallStackMasker](https://github.com/Cobalt-Strike/CallStackMasker)  | A PoC implementation for dynamically masking call stacks with timers. |  ![](https://img.shields.io/github/stars/Cobalt-Strike/CallStackMasker)   | ![](https://img.shields.io/github/languages/top/Cobalt-Strike/CallStackMasker)     |
 |  Crack   |   [CSAgent](https://github.com/Twi1ight/CSAgent)  | CobaltStrike 4.x通用白嫖及汉化加载器，采用javaagent+javassist的方式动态修改jar包，可直接加载原版cobaltstrike.jar，理论上支持到目前为止的所有4.x版本 |  ![](https://img.shields.io/github/stars/Twi1ight/CSAgent)   | ![](https://img.shields.io/github/languages/top/Twi1ight/CSAgent)     |
 
 ### 0x06 Related Resources
