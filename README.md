@@ -83,6 +83,7 @@
 23. [Create a proxy DLL with artifact kit](https://www.cobaltstrike.com/blog/create-a-proxy-dll-with-artifact-kit/)
 24. [Attackers are abusing MSBuild to evade defenses and implant Cobalt Strike beacons](https://isc.sans.edu/forums/diary/Attackers+are+abusing+MSBuild+to+evade+defenses+and+implant+Cobalt+Strike+beacons/28180/#comments)
 25. [Lateral Movement with LiquidSnake](https://tw1sm.github.io/2021-09-13-liquidsnake/)
+26. [CoffLoader from OtterHacker](https://otterhacker.github.io/Malware/CoffLoader.html#introduction)
 
 #### 4. CobaltStrike Hide
 1. [CobaltStrike证书修改躲避流量审查](https://mp.weixin.qq.com/s/sYfvD0XQqi6BFw70_jrv5Q)
@@ -246,6 +247,7 @@
 |  Auxiliary   | [BOF-Nim](https://github.com/byt3bl33d3r/BOF-Nim)  | 用Nim语言写BoF |  ![](https://img.shields.io/github/stars/byt3bl33d3r/BOF-Nim)   | ![](https://img.shields.io/github/languages/top/byt3bl33d3r/BOF-Nim)     |
 |  Auxiliary   | [Invoke-Bof](https://github.com/airbus-cert/Invoke-Bof)  | Load any Beacon Object File using Powershell! |  ![](https://img.shields.io/github/stars/airbus-cert/Invoke-Bof)   | ![](https://img.shields.io/github/languages/top/airbus-cert/Invoke-Bof)     |
 |  Auxiliary   | [Cobalt-Clip](https://github.com/DallasFR/Cobalt-Clip)  | Cobalt-clip is clipboard addons for cobaltstrike to interact with clipboard. With this you can dump, edit and monitor the content of q clipboard. |  ![](https://img.shields.io/github/stars/DallasFR/Cobalt-Clip)   | ![](https://img.shields.io/github/languages/top/DallasFR/Cobalt-Clip)     |
+|  Auxiliary   | [CoffLoader](https://github.com/OtterHacker/CoffLoader)  | Load and execute COFF files and Cobalt Strike BOFs in-memory |  ![](https://img.shields.io/github/stars/OtterHacker/CoffLoader)   | ![](https://img.shields.io/github/languages/top/OtterHacker/CoffLoader)     |
 |  Auxiliary   | [COFFLoader2](https://github.com/Yaxser/COFFLoader2)  | Load and execute COFF files and Cobalt Strike BOFs in-memory |  ![](https://img.shields.io/github/stars/Yaxser/COFFLoader2)   | ![](https://img.shields.io/github/languages/top/Yaxser/COFFLoader2)     |
 |  Auxiliary   | [Process Protection Level Enumerator BOF](https://github.com/EspressoCake/Process_Protection_Level_BOF)  | A Syscall-only BOF file intended to grab process protection attributes, limited to a handful that Red Team operators and pentesters would commonly be interested in.  |  ![](https://img.shields.io/github/stars/EspressoCake/Process_Protection_Level_BOF)   | ![](https://img.shields.io/github/languages/top/EspressoCake/Process_Protection_Level_BOF)     |
 |  Auxiliary   | [Toggle_Token_Privileges_BOF](https://github.com/EspressoCake/Toggle_Token_Privileges_BOF)  | AAn (almost) syscall-only BOF file intended to either add or remove token privileges within the context of your current process.  |  ![](https://img.shields.io/github/stars/EspressoCake/Toggle_Token_Privileges_BOF)   | ![](https://img.shields.io/github/languages/top/EspressoCake/Toggle_Token_Privileges_BOF)     |
