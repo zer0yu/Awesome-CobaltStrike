@@ -102,7 +102,8 @@
 14. [cs bypass卡巴斯基内存查杀 2](https://xz.aliyun.com/t/9399)
 15. [Cobalt Strike – Bypassing C2 Network Detections](https://newtonpaul.com/cobalt-strike-bypassing-c2-network-detections/)
 16. [Cobalt Strike特征隐藏](https://www.cnblogs.com/Xy--1/p/14396744.html)
-17. [Cobalt Strike 反溯源之 CDN 篇]()
+17. [Cobalt Strike 反溯源之 CDN 篇](https://mp.weixin.qq.com/s/9taI6KQzKy2vcKHJXnwgmg)
+18. [Unleashing The Unseen: Harnessing The Power Of Cobalt Strike Profiles For EDR Evasion](https://whiteknightlabs.com/2023/05/23/unleashing-the-unseen-harnessing-the-power-of-cobalt-strike-profiles-for-edr-evasion/)
 
 #### 5. CobaltStrike Analysis
 1. Volatility Plugin for Detecting Cobalt Strike Beacon. [blog](https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html)|[Toolset](https://github.com/RomanEmelyanov/CobaltStrikeForensic)
@@ -180,6 +181,7 @@
 |  ALL   |   [Burp2Malleable](https://github.com/CodeXTF2/Burp2Malleable)  | This is a quick python utility I wrote to turn HTTP requests from burp suite into Cobalt Strike Malleable C2 profiles.  |  ![](https://img.shields.io/github/stars/CodeXTF2/Burp2Malleable)   | ![](https://img.shields.io/github/languages/top/CodeXTF2/Burp2Malleable) |
 |  ALL   |   [autoRebind](https://github.com/CrossC2/autoRebind)  | Automatically parse Malleable C2 profiled into CrossC2 rebinding library source code  |  ![](https://img.shields.io/github/stars/CrossC2/autoRebind)   | ![](https://img.shields.io/github/languages/top/CrossC2/autoRebind) |
 |  ALL   |   [goMalleable](https://github.com/D00Movenok/goMalleable)  | Malleable C2 profiles parser and assembler written in golang |  ![](https://img.shields.io/github/stars/D00Movenok/goMalleable)   | ![](https://img.shields.io/github/languages/top/D00Movenok/goMalleable) |
+|  ALL   |   [Malleable-CS-Profiles](https://github.com/WKL-Sec/Malleable-CS-Profiles)  | A list of python tools to help create an OPSEC-safe Cobalt Strike profile. |  ![](https://img.shields.io/github/stars/WKL-Sec/Malleable-CS-Profiles)   | ![](https://img.shields.io/github/languages/top/WKL-Sec/Malleable-CS-Profiles) |
 
 ### 0x03 BOF
 
@@ -429,6 +431,7 @@
 |  Auxiliary   |   [Headless Strike](https://github.com/CodeXTF2/cobaltstrike-headless)  | Aggressorscript that turns the headless aggressor client into a (mostly) functional cobalt strike client. |  ![](https://img.shields.io/github/stars/CodeXTF2/cobaltstrike-headless)   | ![](https://img.shields.io/github/languages/top/CodeXTF2/cobaltstrike-headless)     |
 |  Auxiliary   |   [Headless Strike](https://github.com/F3eev/SharkExec)  | 内网渗透\红队工具\C#内存加载\cobaltstrike |  ![](https://img.shields.io/github/stars/F3eev/SharkExec)   | ![](https://img.shields.io/github/languages/top/F3eev/SharkExec)     |
 |  Auxiliary   |   [Cohab_Processes](https://github.com/Octoberfest7/Cohab_Processes)  | A small Aggressor script to help Red Teams identify foreign processes on a host machine |  ![](https://img.shields.io/github/stars/Octoberfest7/Cohab_Processes)   | ![](https://img.shields.io/github/languages/top/Octoberfest7/Cohab_Processes)     |
+|  Auxiliary   |   [EnumStrike](https://github.com/DallasFR/EnumStrike)  | Cobalt Strike Aggressor script to automate host and domain enumeration. |  ![](https://img.shields.io/github/stars/DallasFR/EnumStrike)   | ![](https://img.shields.io/github/languages/top/DallasFR/EnumStrike)     |
 |  Synthesis   |   [AM0N-Eye](https://github.com/S3N4T0R-0X0/AMON-Eye)  | AM0N-Eye is a compilation of a group of the most important scripts that were written specifically for Cobaltsetrike and the rest of the files such as de for modification in colors and images. |  ![](https://img.shields.io/github/stars/S3N4T0R-0X0/AMON-Eye)   | ![](https://img.shields.io/github/languages/top/S3N4T0R-0X0/AMON-Eye)     |
 |  Synthesis   |   [aggressor_snippets](https://github.com/Octoberfest7/aggressor_snippets)  | A collection of random small Aggressor snippets that don't warrant their own repo |  ![](https://img.shields.io/github/stars/Octoberfest7/aggressor_snippets)   | ![](https://img.shields.io/github/languages/top/Octoberfest7/aggressor_snippets)     |
 |  Synthesis   |   [Erebus](https://github.com/DeEpinGh0st/Erebus)  |   CobaltStrike4.x --> Erebus CobaltStrike后渗透测试插件   |  ![](https://img.shields.io/github/stars/DeEpinGh0st/Erebus)   | ![](https://img.shields.io/github/languages/top/DeEpinGh0st/Erebus)     |
